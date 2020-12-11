@@ -1,5 +1,5 @@
 #AUTOR: Sergio Roa
-#CARRERA: Ingeniería en  Informática
+#CARRERA: Ingeniería Informática
 
 import os
 
